@@ -129,9 +129,6 @@ let Form = ({ handleSubmit }) => {
         }
     }
 
-
-    // style={{ backgroundImage: `url(${background})` }}
-
     return (
         <body style={{ backgroundImage: `url(${background})` }} >
             <form
